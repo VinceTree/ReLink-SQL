@@ -1,0 +1,18 @@
+Critique the following SQLite program using its actual execution report and output. Identify problems that prevent it from answering the question. Successful execution alone does not establish semantic correctness. Give the critique only, without a replacement query.
+
+Database schema:
+{schema}
+
+Question:
+{question}
+
+Public domain evidence:
+{evidence}
+
+Current SQL:
+{sql}
+
+Execution report and actual output:
+{observation}
+
+What is the problem with the above SQL?

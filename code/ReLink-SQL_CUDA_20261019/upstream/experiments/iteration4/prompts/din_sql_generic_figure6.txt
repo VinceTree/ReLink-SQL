@@ -1,0 +1,8 @@
+{schema}
+Foreign_keys = {foreign_keys}
+Primary_keys = {primary_keys}
+##### Fix bugs in the below SQL for the given question.
+### {question}
+### Buggy SQL
+{sql}
+### Fixed SQL

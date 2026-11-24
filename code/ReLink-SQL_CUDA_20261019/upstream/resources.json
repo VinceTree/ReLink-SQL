@@ -1,0 +1,60 @@
+{
+  "platform": "macOS Apple Silicon; MLX, Python 3.11",
+  "generator_models": {
+    "strong": [
+      "mlx-community/Qwen2.5-7B-Instruct-4bit",
+      "c26a38f6a37d0a51b4e9a1eb3026530fa35d9fed"
+    ],
+    "strong14": [
+      "mlx-community/Qwen2.5-14B-Instruct-4bit",
+      "dad510143ae5cdb1466778bde3161460f9e9f604"
+    ]
+  },
+  "external_data": [
+    "experiments/data/spider/spider_data/train_spider.json",
+    "experiments/data/spider/spider_data/dev.json",
+    "experiments/data/spider/spider_data/database",
+    "experiments/data/bird_full_dev_20251106/dev.json",
+    "experiments/data/bird_databases/minidev/MINIDEV/dev_databases"
+  ],
+  "note": "Keep pinned versions. Source paths in result provenance identify original evidence and are not execution paths for this new package.",
+  "share_bam": {
+    "role": "bam",
+    "repo": "birdsql/share-bam",
+    "revision": "68ad411d3c37d3a58a817ab2d76b60f1eca0c6bd",
+    "original_snapshot": "~/.cache/huggingface/hub/models--birdsql--share-bam/snapshots/68ad411d3c37d3a58a817ab2d76b60f1eca0c6bd",
+    "original_index_sha256": "146776fce3f6db1103aa6f249e65ee5544c5923ce6f971b092eee79aa6e5d37b",
+    "quantization": {
+      "bits": 4,
+      "group_size": 64,
+      "mode": "affine"
+    },
+    "converted_config_sha256": "9e25a40adccd48a6f9c0baed4aa2d183748ad38484fa8b4f125eb826a61b55b8"
+  },
+  "share_sam": {
+    "role": "sam",
+    "repo": "birdsql/share-sam",
+    "revision": "926179d5207eeb4fd693bf2ea52315e97847fe07",
+    "original_snapshot": "~/.cache/huggingface/hub/models--birdsql--share-sam/snapshots/926179d5207eeb4fd693bf2ea52315e97847fe07",
+    "original_index_sha256": "146776fce3f6db1103aa6f249e65ee5544c5923ce6f971b092eee79aa6e5d37b",
+    "quantization": {
+      "bits": 4,
+      "group_size": 64,
+      "mode": "affine"
+    },
+    "converted_config_sha256": "9e25a40adccd48a6f9c0baed4aa2d183748ad38484fa8b4f125eb826a61b55b8"
+  },
+  "share_lom": {
+    "role": "lom",
+    "repo": "birdsql/share-lom",
+    "revision": "f207b0f47d0bb952630baf237b9ae6db7139f36b",
+    "original_snapshot": "~/.cache/huggingface/hub/models--birdsql--share-lom/snapshots/f207b0f47d0bb952630baf237b9ae6db7139f36b",
+    "original_index_sha256": "146776fce3f6db1103aa6f249e65ee5544c5923ce6f971b092eee79aa6e5d37b",
+    "quantization": {
+      "bits": 4,
+      "group_size": 64,
+      "mode": "affine"
+    },
+    "converted_config_sha256": "9e25a40adccd48a6f9c0baed4aa2d183748ad38484fa8b4f125eb826a61b55b8"
+  }
+}

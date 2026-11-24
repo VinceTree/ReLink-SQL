@@ -1,0 +1,21 @@
+You are a SQLite programming assistant. You are given your previous query implementation, its execution feedback, and your self-reflection. Use this guidance to write a new full implementation that answers the question. Return one complete SQLite SELECT query, without commentary.
+
+Database schema:
+{schema}
+
+Question:
+{question}
+
+Public domain evidence:
+{evidence}
+
+Current SQL:
+{sql}
+
+Execution feedback:
+{observation}
+
+Self-reflection on the previous implementation:
+{feedback}
+
+New implementation:

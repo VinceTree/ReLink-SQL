@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/taoyds/test-suite-sql-eval",
+  "commit": "e97acc546ecbee8fa27fa8dbf025ef61493a876c",
+  "files": {
+    "exec_eval.py": "29d034db28904490c28037537a14fbb0150b6e86cef0049076c0511d6b6b77f7",
+    "README.md": "6ab584a7ac58718d037a2f858920d919b9d76c29ff24da52882adf5f734d12ff",
+    "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  }
+}

@@ -1,0 +1,2 @@
+experiment,method,n,initial_correct,final_correct,final_accuracy,mean_total_token_units,mean_repair_input,mean_repair_output,repair_calls,failed_attempts,relink_only_successes,critic_only_successes,r1_new_accepts,r2_new_accepts,r3_new_accepts,r4_new_accepts,r5_new_accepts
+E1b,CRITIC SQL adaptation,1529,599,1080,0.7063440156965337,7085.327665140615,5831.127534336168,486.6703727926749,5814,20,84,74,372,63,25,16,5

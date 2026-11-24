@@ -1,0 +1,3 @@
+experiment,method,n,initial_correct,final_correct,final_accuracy,mean_total_token_units,mean_repair_input,mean_repair_output,repair_calls,failed_attempts,relink_only_successes,critic_only_successes,r1_new_accepts,r2_new_accepts,r3_new_accepts,r4_new_accepts,r5_new_accepts,r1_cumulative_accepted,r2_cumulative_accepted,r3_cumulative_accepted,r4_cumulative_accepted,r5_cumulative_accepted
+E2b,ReLink-SQL（复用 E2）,1529,896,1095,0.7161543492478745,2264.6677567037277,1255.4977109221713,207.92347939829955,2612,24,90,56,54,62,27,29,27,950,1012,1039,1068,1095
+E2b,CRITIC SQL adaptation,1529,896,1061,0.6939175931981687,7712.213865271419,6446.310660562459,464.65663832570306,5238,0,90,56,108,25,16,7,9,1004,1029,1045,1052,1061

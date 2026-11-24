@@ -1,0 +1,18 @@
+You are reviewing a SQLite query. Give specific, actionable feedback on whether the query answers the question using the provided schema and evidence. If it already answers the question, say that no change is needed. Give feedback only; do not write a replacement query.
+
+Database schema:
+{schema}
+
+Question:
+{question}
+
+Public domain evidence:
+{evidence}
+
+Current SQL:
+{sql}
+
+Earlier SQL and feedback in this refinement chain (may be empty):
+{history}
+
+Feedback:

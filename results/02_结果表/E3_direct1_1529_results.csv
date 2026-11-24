@@ -1,0 +1,2 @@
+experiment,direct_repair_count,default_direct_repair_count,n,initial_correct,final_correct,final_accuracy,mean_total_mixed_token_units,mean_repair_input,mean_repair_output,repair_calls,reused_e1_calls,failed_attempts,default_only_successes,variant_only_successes,r1_new_accepts,r2_new_accepts,r3_new_accepts,r4_new_accepts,r5_new_accepts
+E3_direct,1,2,1529,599,1074,0.7024198822759974,2005.163505559189,1058.1092217135383,179.52452583387836,2538,2452,0,16,0,311,114,0,21,29

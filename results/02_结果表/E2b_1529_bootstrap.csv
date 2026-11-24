@@ -1,0 +1,2 @@
+experiment,n,repeats,seed,accuracy_delta,accuracy_ci_low,accuracy_ci_high,token_delta,token_ci_low,token_ci_high,cluster_seed,cluster_repeats,cluster_accuracy_ci_low_pp,cluster_accuracy_ci_high_pp,cluster_token_ci_low,cluster_token_ci_high
+E2b,1529,10000,20261119,0.02223675604970569,0.006540222367560497,0.03793328973185088,-5447.546108567692,-7695.982946370176,-3838.984973839111,20260915,10000,0.14513524977082107,4.609784727490015,-10792.480889846169,-2478.3799529386465

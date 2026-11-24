@@ -1,0 +1,86 @@
+{
+  "BIRD ReLink-SQL": {
+    "all_requests": {
+      "n": 1529,
+      "mean_repair_calls": 2.273381294964029,
+      "mean_model_seconds": 11.67497582472662,
+      "median_model_seconds": 1.933089679,
+      "mean_db_seconds": 0.17319365753563812,
+      "mean_repair_tokens": 1872.2406801831262,
+      "calls_without_timing": 0
+    },
+    "initially_rejected": {
+      "n": 930,
+      "mean_repair_calls": 3.7376344086021507,
+      "mean_model_seconds": 19.194664554846238,
+      "median_model_seconds": 18.884373376,
+      "mean_db_seconds": 0.2847452713677319,
+      "mean_repair_tokens": 3078.1247311827956,
+      "calls_without_timing": 0
+    },
+    "accepted": 975
+  },
+  "BIRD full-schema retry": {
+    "all_requests": {
+      "n": 1529,
+      "mean_repair_calls": 2.4780902550686723,
+      "mean_model_seconds": 7.920687266510791,
+      "median_model_seconds": 2.582660425,
+      "mean_db_seconds": 0.23695064003246138,
+      "mean_repair_tokens": 2928.3034663178546,
+      "calls_without_timing": 0
+    },
+    "initially_rejected": {
+      "n": 930,
+      "mean_repair_calls": 4.074193548387097,
+      "mean_model_seconds": 13.022291215586021,
+      "median_model_seconds": 9.305849115000001,
+      "mean_db_seconds": 0.389567235064122,
+      "mean_repair_tokens": 4814.382795698924,
+      "calls_without_timing": 0
+    },
+    "accepted": 836
+  },
+  "Spider ReLink-SQL": {
+    "all_requests": {
+      "n": 1032,
+      "mean_repair_calls": 0.8372093023255814,
+      "mean_model_seconds": 2.9568322349273255,
+      "median_model_seconds": 0.0,
+      "mean_db_seconds": 0.003365794312237769,
+      "mean_repair_tokens": 399.88178294573646,
+      "calls_without_timing": 0
+    },
+    "initially_rejected": {
+      "n": 288,
+      "mean_repair_calls": 3,
+      "mean_model_seconds": 10.595315508489584,
+      "median_model_seconds": 9.3847773015,
+      "mean_db_seconds": 0.01206076295218534,
+      "mean_repair_tokens": 1432.9097222222222,
+      "calls_without_timing": 0
+    },
+    "accepted": 911
+  },
+  "Spider full-schema retry": {
+    "all_requests": {
+      "n": 1032,
+      "mean_repair_calls": 1.0193798449612403,
+      "mean_model_seconds": 1.890262048250969,
+      "median_model_seconds": 0.0,
+      "mean_db_seconds": 0.008809808351085052,
+      "mean_repair_tokens": 675.1928294573644,
+      "calls_without_timing": 0
+    },
+    "initially_rejected": {
+      "n": 288,
+      "mean_repair_calls": 3.6527777777777777,
+      "mean_model_seconds": 6.773439006232639,
+      "median_model_seconds": 6.4091188809999995,
+      "mean_db_seconds": 0.031568479924721435,
+      "mean_repair_tokens": 2419.440972222222,
+      "calls_without_timing": 0
+    },
+    "accepted": 851
+  }
+}

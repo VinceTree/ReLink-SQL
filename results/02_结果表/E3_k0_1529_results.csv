@@ -1,0 +1,2 @@
+experiment,lexical_columns_per_table,default_columns_per_table,n,initial_correct,final_correct,final_accuracy,mean_total_mixed_token_units,mean_repair_input,mean_repair_output,repair_calls,reused_e1_calls,failed_attempts,default_only_successes,variant_only_successes,r1_new_accepts,r2_new_accepts,r3_new_accepts,r4_new_accepts,r5_new_accepts
+E3,0,4,1529,599,1089,0.7122302158273381,2309.8620013080445,1326.4296926095487,215.90255068672334,2966,1625,0,25,24,287,136,27,21,19

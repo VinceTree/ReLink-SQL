@@ -1,0 +1,21 @@
+Produce a better SQLite solution using the critique and execution feedback. Return one complete SQLite SELECT query, without commentary.
+
+Database schema:
+{schema}
+
+Question:
+{question}
+
+Public domain evidence:
+{evidence}
+
+Current SQL:
+{sql}
+
+Execution report and actual output:
+{observation}
+
+Critique:
+{feedback}
+
+Here is a better solution:

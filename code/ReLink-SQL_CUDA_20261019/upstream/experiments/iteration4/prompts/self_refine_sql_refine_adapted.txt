@@ -1,0 +1,21 @@
+Improve the SQLite query using the feedback. Preserve correct parts and correct identified problems. Return one complete SQLite SELECT query, without commentary.
+
+Database schema:
+{schema}
+
+Question:
+{question}
+
+Public domain evidence:
+{evidence}
+
+Current SQL:
+{sql}
+
+Earlier SQL and feedback in this refinement chain (may be empty):
+{history}
+
+Feedback:
+{feedback}
+
+Improved SQL:

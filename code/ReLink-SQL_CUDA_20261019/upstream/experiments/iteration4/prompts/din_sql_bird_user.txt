@@ -1,0 +1,14 @@
+
+Evaluate the correctness of this query for the given question.
+Hint helps you to write the correct SQL query.
+Correct it if there are any issues. If there are no issues, return the SQLite SQL QUERY as is.
+Schema of the database with sample rows and column descriptions:
+#
+{schema}
+
+{columns_descriptions}
+#
+Q: {question}
+Hint: {hint}
+SQL: {sql_query}
+A: Let's think step by step to find the correct answer.

@@ -1,0 +1,18 @@
+You are a SQLite programming assistant. You will be given a query implementation and its execution feedback. Write a few sentences explaining failures supported by the feedback and what to change on the next attempt. Successful execution is not a semantic correctness test. Only provide the reflection, not an implementation.
+
+Database schema:
+{schema}
+
+Question:
+{question}
+
+Public domain evidence:
+{evidence}
+
+Current SQL:
+{sql}
+
+Execution feedback:
+{observation}
+
+Reflection:

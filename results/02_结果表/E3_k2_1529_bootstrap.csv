@@ -1,0 +1,2 @@
+experiment,lexical_columns_per_table,n,repeats,seed,accuracy_delta,accuracy_ci_low,accuracy_ci_high,token_delta,token_ci_low,token_ci_high
+E3,2,1529,10000,20261119,0.0032701111837802484,-0.0013080444735120995,0.008502289077828646,-20.91563113145847,-38.57823741007194,-4.835807717462394

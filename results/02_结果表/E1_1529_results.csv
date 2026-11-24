@@ -1,0 +1,3 @@
+experiment,method,n,initial_correct,final_correct,final_accuracy,mean_total_token_units,mean_repair_input,mean_repair_output,repair_calls,reused_pilot_calls,new_attempts,failed_attempts,r1_new_accepts,r2_new_accepts,r3_new_accepts,r4_new_accepts,r5_new_accepts
+E1,ReLink-SQL,1529,599,1090,0.7128842380640942,2304.6147809025506,1319.9045127534337,217.18051013734467,2934,49,2901,16,311,114,24,20,22
+E1,full-schema retry,1529,599,1068,0.6984957488554611,3478.8489208633096,2479.1294964028775,232.18966644865927,2963,61,2902,0,367,49,26,20,7

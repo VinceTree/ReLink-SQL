@@ -1,0 +1,13 @@
+method,category,count
+ReLink-SQL,执行错误,71
+ReLink-SQL,空结果,100
+ReLink-SQL,列数不符,136
+ReLink-SQL,行数不符,58
+ReLink-SQL,值不符,189
+ReLink-SQL,信息不足,0
+全库重试,执行错误,108
+全库重试,空结果,146
+全库重试,列数不符,143
+全库重试,行数不符,66
+全库重试,值不符,230
+全库重试,信息不足,0
